@@ -1,6 +1,8 @@
 # Peer Review of [Repository Name]
 
-**Note:** I have not seen anyone post a repository for me to review yet, so this review serves as a template based on the typical content I would expect to see. Please update the link when a repository is available for review.
+**Notebook:** [Notebook Title or Link to Notebook]  
+**Reviewer:** Elen Tesfai  
+**Date:** April ___, 2025  
 
 ## Notebook Link
 Click here to access the notebook I reviewed: [Notebook Title](URL to notebook)
@@ -17,7 +19,7 @@ Click here to access the notebook I reviewed: [Notebook Title](URL to notebook)
 ## 2. Feature Selection & Justification
 ### Positive Feedback:
 - The selected features are relevant and aligned with the goal of predicting house prices. You’ve included both categorical and numerical features that are commonly used in real-estate predictions.
-  
+
 ### Suggested Improvements:
 - It would be useful to include a brief explanation of why certain features were chosen and how they might impact the model's performance. For example, features like "bedrooms" and "stories" are logical, but understanding why they were prioritized would add depth to the feature selection process.
 - Consider experimenting with feature engineering techniques (e.g., interaction terms or domain-specific features) and evaluate whether adding new features could improve model performance.
@@ -25,7 +27,7 @@ Click here to access the notebook I reviewed: [Notebook Title](URL to notebook)
 ## 3. Model Performance & Comparisons
 ### Positive Feedback:
 - You’ve done a good job of explaining the model’s performance using R², MAE, and RMSE. The comparison between multiple models (e.g., Linear Regression vs. Pipeline models) helps the reader understand which model performs best under different configurations.
-  
+
 ### Suggested Improvements:
 - Although the models are compared, it could be useful to provide visualizations (e.g., residual plots, learning curves) alongside the performance metrics to better explain why one model performs better than the other. This helps in identifying patterns or outliers that could affect the model’s predictions.
 - It would be beneficial to include more context for the R² values, such as whether they are acceptable given the complexity of the problem or dataset.
