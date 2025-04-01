@@ -1,5 +1,7 @@
 # Peer Review of [Repository Name]
 
+**Note:** I have not seen anyone post a repository for me to review yet, so this review serves as a template based on the typical content I would expect to see. Please update the link when a repository is available for review.
+
 **Notebook:** [Notebook Title or Link to Notebook]  
 **Reviewer:** Elen Tesfai  
 **Date:** April ___, 2025  
@@ -42,3 +44,6 @@ Click here to access the notebook I reviewed: [Notebook Title](URL to notebook)
 
 ## Final Thoughts:
 This notebook provides a solid foundation for predictive modeling with house price data. With the suggested improvements in feature explanation, visualizations, and detailed reflections, the analysis could be made even more robust and accessible. Overall, it’s a great start, and I look forward to seeing future updates or improvements!
+
+Reviewer: Elen Tesfai  
+Date: April ___, 2025
